@@ -18,7 +18,7 @@ const INITIAL_STATE = {
         {
             id: Math.random(),
             nickname: 'Henrique Negri',
-            email: 'henrique@realdrive.tech',
+            email: 'henrique@brainov.com',
             image: require('../../assets/imgs/ap1.png'),
             type: 'Apartamento',
             street: 'Rua Sinimbú',
@@ -39,7 +39,7 @@ const INITIAL_STATE = {
         },
         {
             id: Math.random(),
-            nickname: 'João Otário',
+            nickname: 'João Otávio',
             email: 'otario.vv@gmail.com',
             image: require('../../assets/imgs/ground.jpg'),
             type: 'Terreno',
@@ -60,8 +60,8 @@ const INITIAL_STATE = {
         },
         {
             id: Math.random(),
-            nickname: 'Paula Tejando',
-            email: 'paulinha@gmail.com',
+            nickname: 'Fugiro Kamyamoto',
+            email: 'fugiroK@gmail.com',
             image: require('../../assets/imgs/home.jpg'),
             type: 'Casa',
             street: 'Rua Matteo Gianella',

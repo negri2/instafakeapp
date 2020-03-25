@@ -10,7 +10,7 @@ export default class Profile extends Component {
     }
 
     render() {
-        const options = { email: 'henrique@realdrive.tech', secure: true }
+        const options = { email: 'henrique@brainov.com', secure: true }
 
         return (
             <View style={styles.container}>

@@ -1,6 +1,6 @@
 import {Alert} from 'react-native';
 
-const server  = 'https://monitoramento.realdrive.com.br/api';
+const server  = 'https://api-address/api';
 
 
 function showError(err) {

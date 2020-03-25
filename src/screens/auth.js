@@ -17,7 +17,7 @@ export default class Auth extends Component {
     state = {
         stageNew: false,
         name: '',
-        email: '03425419005',
+        email: 'henrique@brainov.com',
         password: '12345',
         confirmPassword: '',
     }
